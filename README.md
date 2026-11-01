@@ -1,4 +1,4 @@
-# Hi, I'm Lương Tiến Dũng 
+# Lương Tiến Dũng 
 
 **Data Science student · Algorithms · Machine Learning**
 
