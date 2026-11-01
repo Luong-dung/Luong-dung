@@ -2,8 +2,6 @@
 
 **Data Science student · Algorithms · Machine Learning**
 
-Xin chào! Mình là Dũng, sinh viên Khoa học Dữ liệu tại HUS, quan tâm đến thuật toán, lập trình thi đấu và học máy.
-
 I'm studying Data Science at VNU University of Science (HUS), Hanoi. I enjoy solving problems with algorithms and building machine learning experiments, with a focus on C++ optimization, video classification, and reliable model evaluation.
 
 [Portfolio source](https://github.com/Luong-dung/portfolio) · [LeetCode](https://leetcode.com/u/__covetot__/) · [Email](mailto:luongdung90050101@gmail.com)
