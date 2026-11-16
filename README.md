@@ -31,7 +31,7 @@ A personal experiment with Python and Ollama, connecting locally generated code 
 
 ## Awards
 
-- **Bronze Medal, 2026** — ICPC Vietnam National Programming Contest (68th place).
+- **Bronze Medal, 2026** — ICPC Vietnam National Programming Contest.
 - **Third Prize, 2025** — Vietnam Student Informatics Olympiad, Specialized Division.
 - **Honorable Mention, 2024** — Vietnam Student Informatics Olympiad, Specialized Division.
 
