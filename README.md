@@ -27,7 +27,11 @@ A university group project in C++, exploring search strategies and large-board o
 
 ### Local Coding Agent
 
-A personal experiment with Python and Ollama, connecting locally generated code to C++ compilation, execution, and automated test feedback.
+A Python CLI agent that generates C++ code, compiles and runs it against tests, and feeds compiler errors or failing tests back to the model. Runs on a local Ollama model or any OpenAI-compatible API (Groq, OpenRouter).
+
+- Built a benchmark of 30 C++ tasks with randomized tests and brute-force-verified reference solutions.
+- The feedback loop fixed every one-shot failure observed, including a 333-line big-integer calculator accepted after 5 repair rounds.
+- [Source & results](https://github.com/Luong-dung/local-coding-agent)
 
 ## Awards
 
