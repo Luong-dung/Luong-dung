@@ -25,14 +25,6 @@ A university group project in C++, exploring search strategies and large-board o
 - Benchmarked an AI-optimized implementation on **1000 × 1000 boards**: **21/30 solved** within **10 seconds / 1 GB RAM**; successful runs averaged **9.00 seconds**.
 - Directed AI-assisted implementation and iterative optimization of the strategy.
 
-### Local Coding Agent
-
-A Python CLI agent that generates C++ code, compiles and runs it against tests, and feeds compiler errors or failing tests back to the model. Runs on a local Ollama model or any OpenAI-compatible API (Groq, OpenRouter).
-
-- Built a benchmark of 30 C++ tasks with randomized tests and brute-force-verified reference solutions.
-- The feedback loop fixed every one-shot failure observed, including a 333-line big-integer calculator accepted after 5 repair rounds.
-- [Source & results](https://github.com/Luong-dung/local-coding-agent)
-
 ## Awards
 
 - **Bronze Medal, 2026** — ICPC Vietnam National Programming Contest.
