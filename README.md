@@ -4,7 +4,7 @@
 
 I'm studying Data Science at VNU University of Science (HUS), Hanoi. I enjoy solving problems with algorithms and building machine learning experiments, with a focus on C++ optimization, video classification, and reliable model evaluation.
 
-[Portfolio source](https://github.com/Luong-dung/portfolio) · [LeetCode](https://leetcode.com/u/__covetot__/) · [AtCoder](https://atcoder.jp/users/Luongdung) · [Email](mailto:luongdung90050101@gmail.com)
+[Portfolio](https://luong-dung.github.io/portfolio/) · [Source](https://github.com/Luong-dung/portfolio) · [LeetCode](https://leetcode.com/u/__covetot__/) · [AtCoder](https://atcoder.jp/users/Luongdung) · [Email](mailto:luongdung90050101@gmail.com)
 
 ## Selected projects
 
