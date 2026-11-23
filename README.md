@@ -1,10 +1,10 @@
-# Lường Tiến Dũng 
+# Lường Tiến Dũng
 
 **Data Science student · Algorithms · Machine Learning**
 
 I'm studying Data Science at VNU University of Science (HUS), Hanoi. I enjoy solving problems with algorithms and building machine learning experiments, with a focus on C++ optimization, video classification, and reliable model evaluation.
 
-[Portfolio source](https://github.com/Luong-dung/portfolio) · [LeetCode](https://leetcode.com/u/__covetot__/) · [Email](mailto:luongdung90050101@gmail.com)
+[Portfolio source](https://github.com/Luong-dung/portfolio) · [LeetCode](https://leetcode.com/u/__covetot__/) · [AtCoder](https://atcoder.jp/users/Luongdung) · [Email](mailto:luongdung90050101@gmail.com)
 
 ## Selected projects
 
@@ -30,6 +30,7 @@ A university group project in C++, exploring search strategies and large-board o
 - **Bronze Medal, 2026** — ICPC Vietnam National Programming Contest.
 - **Third Prize, 2025** — Vietnam Student Informatics Olympiad, Specialized Division.
 - **Honorable Mention, 2024** — Vietnam Student Informatics Olympiad, Specialized Division.
+- **LeetCode:** contest rating 1807, 280 problems solved · **AtCoder:** peak rating 1610.
 
 ## Technologies
 
